@@ -1,14 +1,14 @@
 import { Container } from "./styles";
-import VinayakSingh from "../../assets/VinayakSingh.png";
-import wordpress from "../../assets/wordpress.svg";
-import shopify from "../../assets/shopify.svg";
+import VinayakSingh from "../../assets/IMG_8987.jpg";
+import wordpress from "../../assets/nextjs-icon.png";
+import shopify from "../../assets/tailwind-css-icon.png";
 import htmlIcon from "../../assets/html-icon.svg";
 import cssIcon from "../../assets/css-icon.svg";
 import jsIcon from "../../assets/js-icon.svg";
 import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
-import vueIcon from "../../assets/vue-icon.svg";
+import vueIcon from "../../assets/postgresql-icon.png";
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
 import ScrollAnimation from "react-animate-on-scroll";
 
@@ -21,17 +21,17 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Hi there! I'm Vinayak, a website developer with a passion for creating custom online experiences for my clients. With a skill set including HTML, CSS, JavaScript, and React, I have the tools to bring any website vision to life.
+          I am a full-stack developer with over a year of experience in website, web app, and progressive web app development. My journey in development has allowed me to work on a wide range of projects, from building responsive websites to creating complex, scalable applications. I am proficient in both frontend and backend technologies, ensuring seamless user experiences and reliable system performance. My focus is on crafting efficient and maintainable code that enhances user engagement and improves functionality.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
-            But my services go beyond just custom development - I'm also proficient in using CMS systems like WordPress and Shopify, making it easy for my clients to take control of their own websites and keep them up to date.</p>
+          My main skill set includes HTML, CSS, JavaScript, ReactJS, and NextJS. With these tools, I am able to create dynamic user interfaces and build applications that are not only visually appealing but also fast and responsive. I have a solid foundation in system design and database architecture, which allows me to create efficient solutions tailored to the needs of each project. In addition, I am experienced in integrating AI tools to add intelligent features and automation to applications, making them more innovative and effective.</p>
         </ScrollAnimation>
-        <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
+        {/* <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
             So if you're in need of a new website or just looking to revamp your current online presence, I'd love to chat and see how I can help. Let's bring your website dreams to reality together!</p>
-        </ScrollAnimation>
+        </ScrollAnimation> */}
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
           <h3>Here are my main skills:</h3>
         </ScrollAnimation>
